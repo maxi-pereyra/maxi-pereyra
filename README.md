@@ -34,7 +34,7 @@
 
 <h3>No dudes en contactarme</h3>
 
-<a href="www.linkedin.com/in/maximiliano-pereyra-533877231">Linkedin</a>
+<a href="https://www.linkedin.com/in/maximiliano-pereyra-533877231/">Linkedin</a>
 
 <p>Correo : maxi.abel.pereyra@outlook.com</p>
 <!--
