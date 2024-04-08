@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h2>¿Qien soy?</h2>
+<h2>¿Quien soy?</h2>
 <hr>
 <p> Soy un programador fullstack . Siempre tuve gran entusiasmo y extrema curiosidad por lo que se puede lograr hoy con la informatica y de pensar en todo lo que viene me hizo plantearme formar parte de esta hermosa profesion.  </p>
 
