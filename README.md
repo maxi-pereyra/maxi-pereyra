@@ -1,53 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hola 👋, soy Maximiliano</h1>
+<h3 align="center">desarrollador frontend de Argentina</h3>
 
-<h2>¿Quien soy?</h2>
-<hr>
-<p> Soy un programador fullstack . Siempre tuve gran entusiasmo y extrema curiosidad por lo que se puede lograr hoy con la informatica y de pensar en todo lo que viene me hizo plantearme formar parte de esta hermosa profesion.  </p>
-
-<h2> ¿Que hago? </h2>
-<hr>
-<p>
-  Actualmente avanzo con proyectos de interes que me ayudan a mi formacion como programdor. Mas especifico a implementar formas de pago , cuentas seguras de terceros , preservar la informacion segura, base de datos relacionales .  
+<h3 align="left">Conéctate conmigo:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/maximiliano-pereyra-533877231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/maximiliano-pereyra-533877231" height="30" width="40" /></a>
 </p>
 
-<h2> ¿A donde me dirijo? </h2>
-<hr>
-<p>
-  Mi objetivo es ser un profesional consolidado en el mundo de la proogramacion , plantear soluciones a nuevos desafios.
-</p>
+<h3 align="left">Idiomas y Herramientas:
+<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/es-ES/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" ancho="40" alto="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" ancho="40" alto="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" ancho="40" alto="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" ancho="40" alto="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" ancho="40" alto="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" ancho="40" alto="40"/> </a> </p>zona/logotipos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" ancho="40" alto="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" ancho="40" alto="40"/> </a> </p>zona/logotipos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" ancho="40" alto="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" ancho="40" alto="40"/> </a> </p>
 
-<h2> ¿Que tecnoogias uso? </h2>
-<hr>
-<p> Mi primer gran paso para convertirme en profesional lo di con Henry donde aprendi las tecnologias con las cuales trabajo.</p>
-<ul>
-  <li>Javascript</li>
-  <li>Node js</li>
-  <li>Express</li>
-  <li>React</li>
-  <li>Redux</li>
-  <li>PostgreSQL</li>
-  <li>Sequalize</li>
-  <li>GIT</li>
-</ul>
+<p><img align="izquierda" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxi-pereyra&show_icons=true&locale=es&layout=compact" alt="maxi-pereyra" /></p>
 
-<p>Tambien HTML y CSS</p>
+<p> <img align="centro" src="https://github-readme-stats.vercel.app/api?username=maxi-pereyra&show_icons=true&locale=es" alt="maxi-pereyra" /></p>
 
-<h3>No dudes en contactarme</h3>
+<p><img align="centro" src="https://github-readme-streak-stats.herokuapp.com/?user=maxi-pereyra&" alt="maxi-pereyra" /></p>
 
-<a href="https://www.linkedin.com/in/maximiliano-pereyra-533877231/">Linkedin</a>
-
-<p>Correo : maxi.abel.pereyra@outlook.com</p>
-<!--
-**maxi-pereyra/maxi-pereyra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
